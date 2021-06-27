@@ -1,12 +1,19 @@
 # 01 HTML CSS Git: Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+The Horiseon Code Refractor project contained various updates, including markup to the HTML and CSS for consistency and quality, orgazational changes (grouping of elements), and other various changes.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+Please find the Screenshots, User Story/Acceptance Criteria, and Review sections, below:
 
-> Always leave the code you are editing a little cleaner than you found it.
+## Screenshots
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+![2299D187-7BA9-4D9E-9058-7A038AE9FB30_1_105_c](https://user-images.githubusercontent.com/85423905/123562947-c7553280-d77f-11eb-9bd7-df0c74fa3542.jpeg)
+
+![F284EF06-394E-4461-A870-097BD81DDC84_1_105_c](https://user-images.githubusercontent.com/85423905/123562954-cae8b980-d77f-11eb-853f-528d4341d0dd.jpeg)
+
+![4C37D5EE-C3C2-437B-87A3-4B384D4E8815_1_105_c](https://user-images.githubusercontent.com/85423905/123562957-cde3aa00-d77f-11eb-8ff7-3fa55834ecaa.jpeg)
+
+
+
 
 ## User Story
 
@@ -34,11 +41,7 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-You are required to submit the following for review:
+* The URL of the deployed application:
 
-* The URL of the deployed application.
+* The URL of the GitHub repository:
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
