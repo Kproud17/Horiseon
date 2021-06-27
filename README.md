@@ -2,6 +2,10 @@
 
 The Horiseon Code Refractor project contained various updates, including markup to the HTML and CSS for consistency and quality, orgazational changes (grouping of elements), and other various changes.
 
+# The index.html can be found under the Develop directory.
+# The CSS can be found in Develop/Assets
+
+
 Please find the Screenshots, User Story/Acceptance Criteria, and Review sections, below:
 
 ## Screenshots
@@ -41,7 +45,6 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-* The URL of the deployed application:  
+* The URL of the deployed application:   https://github.com/Kproud17/Horiseon
 
-* The URL of the GitHub repository:  https://github.com/Kproud17/Horiseon
-
+* The URL of the GitHub repository:  https://github.com/Kproud17/Horiseon.git 
