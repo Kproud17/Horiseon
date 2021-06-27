@@ -41,7 +41,7 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-* The URL of the deployed application:
+* The URL of the deployed application:  
 
-* The URL of the GitHub repository:
+* The URL of the GitHub repository:  https://github.com/Kproud17/Horiseon
 
